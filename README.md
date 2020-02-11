@@ -1,2 +1,4 @@
 # Basics-of-programming
-Basics  programs using python   
+Install python 3   
+Install pycharm(optional)
+Clone the project
